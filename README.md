@@ -2,6 +2,7 @@
 This portable android app is used to grant student exeats as well as view exeat detail of a particular student
 
 ![image](https://github.com/jbayensu/Android-SchoolExeat-app/assets/65293887/3fa31194-8d0f-421a-968e-afae809fa196)
+
 Log in as a user or guest
 
 
