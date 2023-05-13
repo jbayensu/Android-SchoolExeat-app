@@ -12,3 +12,8 @@ basic functions
 ![image](https://github.com/jbayensu/Android-EasePay-app/assets/65293887/42a187fc-edc7-4ece-bae2-e584863ccfe0)
 
 Search students details
+
+
+![image](https://github.com/jbayensu/Android-SchoolExeat-app/assets/65293887/9a20c0d8-bc06-4acb-9da6-5223e31a17fd)
+
+Grant Exeat
